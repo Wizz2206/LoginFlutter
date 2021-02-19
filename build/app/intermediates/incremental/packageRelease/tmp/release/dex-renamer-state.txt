@@ -1,0 +1,4 @@
+#Fri Feb 19 13:42:04 IST 2021
+base.0=E\:\\VS Code\\Flutter\\trial\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
